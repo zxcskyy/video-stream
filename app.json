@@ -46,23 +46,21 @@
         },
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
-            "required": true,
-            "value": "VeezSupportGroup"
+            "required": false,
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
-            "required": true,
-            "value": "levinachannel"
+            "required": false,
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": true,
-            "value": "dlwrml"
+            "value": "zxcskyy"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": true,
-            "value": "Levina"
+            "value": "kyy"
         }
     },
     "addons": [],
