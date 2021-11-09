@@ -46,11 +46,11 @@
         },
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
-            "required": false,
+            "required": true,
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
-            "required": false,
+            "required": true,
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
